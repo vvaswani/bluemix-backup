@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ifsnop/mysqldump-php": "2.*",
+        "sendgrid/sendgrid": "6.*",
+        "kunalvarma05/dropbox-php-sdk": "0.2.1"
+    }
+}

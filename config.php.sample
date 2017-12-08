@@ -1,0 +1,22 @@
+<?php
+$config = [
+  'settings' => [
+    'db' => [
+      'name' => 'DATABASE-NAME',
+      'hostname' => 'DATABASE-HOST',
+      'username' => 'DATABASE-USERNAME',
+      'password' => 'DATABASE-PASSWORD',
+    ],
+    'dropbox' => [
+      'app-key' => 'DROPBOX-APP-KEY',
+      'app-secret' => 'DROPBOX-APP-SECRET',
+      'app-token' => 'DROPBOX-APP-TOKEN',
+      'app-folder' => 'DROPBOX-APP-FOLDER',
+    ],
+    'sendgrid' => [
+      'key' => 'SENDGRID-API-KEY',
+      'to' => 'RECIPIENT-EMAIL-ADDRESS'
+    ],
+    'token' => 'guessme',
+  ]
+];

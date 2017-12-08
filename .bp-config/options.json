@@ -1,0 +1,5 @@
+{
+    "WEB_SERVER": "httpd",
+    "WEBDIR": "public",
+    "PHP_VERSION": "{PHP_70_LATEST}"
+}
